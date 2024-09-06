@@ -472,12 +472,6 @@ nav .nav-right img:last-child{
       .vid-description {
         padding: 20px;
       }
-      .add-comment {
-        /* flex-direction: ; */
-      }
-      .old-comment {
-        /* flex-direction: column; */
-      }
       .comment-wrapper{
           height: 300px;
           border: 1px solid;
